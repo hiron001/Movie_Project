@@ -195,7 +195,7 @@ span{
     /* background-color: red; */
     font-size: 60px;
 
-    margin-top: 50px;
+    margin-top: 120px;
     margin-left: 13%;
     color: white;
     font-family: "Poppins";
@@ -238,7 +238,7 @@ span{
 .box-right img {
     cursor: pointer;
     border-radius: 5px;
-    margin-top: -20%;
+    margin-top: 15%;
     transition: transform 0.3s ease;
 }
 
