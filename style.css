@@ -100,6 +100,7 @@ span{
     display: flex;
     font-family: "Poppins";
     color: rgb(255, 0, 0);
+    font-weight: 500;
     justify-content: end;
     align-items: center;
     transition: 0.2s ease-out;
