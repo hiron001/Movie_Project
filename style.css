@@ -103,7 +103,7 @@ span{
 .link-menu {
     display: flex;
     font-family: "Poppins";
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     font-weight: 500;
     justify-content: end;
     align-items: center;
@@ -111,8 +111,9 @@ span{
 }
 
 .link-menu:hover {
-    color: rgb(255, 255, 255);
-    text-shadow: 0 0 30px rgb(255, 255, 255), 0 0 20px rgb(255, 255, 255);
+
+    color: rgb(255, 0, 0);
+    
 }
 
 
